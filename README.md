@@ -4,8 +4,7 @@ Calculate your partner's worth in camels with our fun and entertaining Camel Cal
 
 [Visit Camel Calculator](https://camelcalculator.org)
 
-![Camel Calculator Screenshot]
-(Add your screenshot here)
+![Camel Calculator Screenshot](screenshot.jpg)
 
 ## Features ✨
 
